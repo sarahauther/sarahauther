@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+#### Welcome to my GitHub profile for COMM 160DS!
+- I am a third year comm major at UCSB and I am hoping to learn a lot about data science through this course. I don't have much knowledge about python but I am hoping to learn enough to get me started. 
+- I love running and I am on the UCSB Track Team 🏃‍♀️
+- Outside of school and athletics, I love being outside in nature or at the beach 🏖
 
 <!--
 **sarahauther/sarahauther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
